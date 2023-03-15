@@ -7,7 +7,7 @@ This is an individual tutorial repository created for Tutorial 5.
 
 ## GitLab Repo
 
-- _Individual Tutorial 3 Repository URL_: <https://git.cs.dal.ca/abhinavs/tutorial3_csci_5709_abhinav_singh.git>
+- _Individual Tutorial 5 Repository URL_: <https://git.cs.dal.ca/abhinavs/tutorial5_csci_5709_abhinav_singh.git>
 
 ## IMPORTANT NOTE
 
@@ -63,5 +63,9 @@ References Used:
 How to generate the unique Id for each user ? 
 
 [1] "How do I create a GUID / UUID?", Stack Overflow, 2023. [Online]. Available: https://stackoverflow.com/questions/105034/how-do-i-create-a-guid-uuid. [Accessed: 12- Mar- 2023]
+
+Deploying the rest api 
+[2] "render web services",render.com, 2023. [Online]. Available: https://dashboard.render.com/
+
 
 
